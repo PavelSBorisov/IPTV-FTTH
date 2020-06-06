@@ -9,11 +9,13 @@ IP адреси на устройствата: https://docs.google.com/spreadshe
 Използвани устройства в мрежата:
 
 •	3 маршрутизатор (router) модел J2320 серия J на Juniper Networks
+
 •	1 комутатор (switch) модел SGSv2-ROS на Smartcom Bulgaria 
 
 Използван безплатен софтуер с отворен код:
 
 •	VLC Media Player - за създаване и възпроизвеждане на видео поток
+
 •	Wireshark – за анализ на пакетите изпращани и получавани при крайните устройства
 
 Принцип на работа на мрежата:
@@ -36,4 +38,5 @@ IP адреси на устройствата: https://docs.google.com/spreadshe
 Линк документация на дипломната работа: https://drive.google.com/file/d/1i0K3KiNGqO2i8O-Lk-QGXh6XVztFx-bv/view?usp=sharing
 
 Изготвил: Павел Борисов 12г 
+
 Дипломен ръководител: Радостина Герчева
